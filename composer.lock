@@ -4,27 +4,27 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "297fb66745cb92ba3dd5c56f2e9a868a",
-    "content-hash": "8d1edd986741984630e789a9956fbbd6",
+    "hash": "47407966e809e1bc491db91af30fc5fd",
+    "content-hash": "117322fc7ce62ffa233c6268d207b154",
     "packages": [
         {
             "name": "dario_swain/main",
-            "version": "0.1.0",
+            "version": "0.2.x-dev",
             "source": {
                 "type": "git",
                 "url": "https://github.com/DarioSwain/main.git",
-                "reference": "0868df9e1b640e5ff383bb3844acce5692757aea"
+                "reference": "2ef51cb7b46b503a65b04c76d983a09c249c5232"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/DarioSwain/main/zipball/0868df9e1b640e5ff383bb3844acce5692757aea",
-                "reference": "0868df9e1b640e5ff383bb3844acce5692757aea",
+                "url": "https://api.github.com/repos/DarioSwain/main/zipball/2ef51cb7b46b503a65b04c76d983a09c249c5232",
+                "reference": "2ef51cb7b46b503a65b04c76d983a09c249c5232",
                 "shasum": ""
             },
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "0.1.x-dev"
+                    "dev-master": "0.2.x-dev"
                 }
             },
             "notification-url": "https://packagist.org/downloads/",
@@ -34,14 +34,14 @@
                     "email": "dario_swain@yahoo.com"
                 }
             ],
-            "time": "2016-06-28 18:59:49"
+            "time": "2016-06-28 19:36:55"
         }
     ],
     "packages-dev": [],
     "aliases": [],
     "minimum-stability": "dev",
     "stability-flags": [],
-    "prefer-stable": true,
+    "prefer-stable": false,
     "prefer-lowest": false,
     "platform": [],
     "platform-dev": []

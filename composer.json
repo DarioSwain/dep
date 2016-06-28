@@ -8,6 +8,6 @@
     }
   ],
   "require": {
-    "dario_swain/main": "~0.1.0"
+    "dario_swain/main": "~0.2.0"
   }
 }
