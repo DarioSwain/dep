@@ -1,0 +1,48 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "297fb66745cb92ba3dd5c56f2e9a868a",
+    "content-hash": "8d1edd986741984630e789a9956fbbd6",
+    "packages": [
+        {
+            "name": "dario_swain/main",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/DarioSwain/main.git",
+                "reference": "0868df9e1b640e5ff383bb3844acce5692757aea"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/DarioSwain/main/zipball/0868df9e1b640e5ff383bb3844acce5692757aea",
+                "reference": "0868df9e1b640e5ff383bb3844acce5692757aea",
+                "shasum": ""
+            },
+            "type": "library",
+            "extra": {
+                "branch-alias": {
+                    "dev-master": "0.1.x-dev"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "authors": [
+                {
+                    "name": "Ilya Pokamestov",
+                    "email": "dario_swain@yahoo.com"
+                }
+            ],
+            "time": "2016-06-28 18:59:49"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "dev",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
